@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Patron_facade.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8DB60A9D-4C08-4089-81DD-870BC1EC2A91}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Patron_facade.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Patron_facadeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E8E297CE-0058-41F2-BA1C-4756AB10BEF0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Patron_facade">
+      <UniqueIdentifier>{E85A3046-1C19-473E-A8EB-0DD48D3D8EAE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Patron_facade\EscuadronNaves.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\EscuadronNaves.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_facade\NaveEnemigaAsalto.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\NaveEnemigaAsalto.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_facade\NaveEnemigaCaza.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\NaveEnemigaCaza.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_facade\NaveEnemigaFantasma.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\NaveEnemigaFantasma.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Patron_facade\Patron_facade.Build.cs">
+      <Filter>Source\Patron_facade</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Patron_facade\Patron_facade.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\Patron_facade.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_facade\Patron_facadeGameMode.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\Patron_facadeGameMode.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_facade\Patron_facadePawn.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\Patron_facadePawn.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Patron_facade\Patron_facadeProjectile.cpp">
+      <Filter>Source\Patron_facade</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Patron_facade\Patron_facadeProjectile.h">
+      <Filter>Source\Patron_facade</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

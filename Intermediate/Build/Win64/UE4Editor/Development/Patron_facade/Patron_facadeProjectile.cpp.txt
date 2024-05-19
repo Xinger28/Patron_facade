@@ -1,0 +1,7 @@
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Development\Patron_facade\Definitions.Patron_facade.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade\Patron_facadeProjectile.h
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Inc\Patron_facade\Patron_facadeProjectile.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h

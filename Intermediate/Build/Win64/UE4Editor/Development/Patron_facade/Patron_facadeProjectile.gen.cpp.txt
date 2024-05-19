@@ -1,0 +1,5 @@
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Development\Patron_facade\Definitions.Patron_facade.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade/Patron_facadeProjectile.h
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Inc\Patron_facade\Patron_facadeProjectile.generated.h

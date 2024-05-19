@@ -1,0 +1,2 @@
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Development\Patron_facade\Definitions.Patron_facade.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade\Patron_facade.h

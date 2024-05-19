@@ -1,0 +1,3 @@
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Development\Patron_facade\Definitions.Patron_facade.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade\NaveEnemigaFantasma.h
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Inc\Patron_facade\NaveEnemigaFantasma.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Patron_facade",
+			"Path": "E:\\examen\\PatronFacade\\Patron_facade\\Source\\Patron_facade.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Patron_facadeEditor",
+			"Path": "E:\\examen\\PatronFacade\\Patron_facade\\Source\\Patron_facadeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

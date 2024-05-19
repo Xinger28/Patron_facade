@@ -1,0 +1,9 @@
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Development\Patron_facade\Definitions.Patron_facade.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade\EscuadronNaves.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade\NaveEnemigaCaza.h
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Inc\Patron_facade\NaveEnemigaCaza.generated.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade\NaveEnemigaAsalto.h
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Inc\Patron_facade\NaveEnemigaAsalto.generated.h
+E:\examen\PatronFacade\Patron_facade\Source\Patron_facade\NaveEnemigaFantasma.h
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Inc\Patron_facade\NaveEnemigaFantasma.generated.h
+E:\examen\PatronFacade\Patron_facade\Intermediate\Build\Win64\UE4Editor\Inc\Patron_facade\EscuadronNaves.generated.h

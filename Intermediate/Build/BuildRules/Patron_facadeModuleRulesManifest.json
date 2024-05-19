@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\examen\\PatronFacade\\Patron_facade\\Source\\Patron_facade\\Patron_facade.Build.cs",
+		"E:\\examen\\PatronFacade\\Patron_facade\\Source\\Patron_facade.Target.cs",
+		"E:\\examen\\PatronFacade\\Patron_facade\\Source\\Patron_facadeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
